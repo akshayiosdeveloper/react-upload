@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/akshayiosdeveloper/react-upload/static/css/main.5d72c817.css",
+    "main.js": "/akshayiosdeveloper/react-upload/static/js/main.bbec8a7e.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/akshayiosdeveloper/react-upload/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/akshayiosdeveloper/react-upload/index.html",
+    "main.5d72c817.css.map": "/akshayiosdeveloper/react-upload/static/css/main.5d72c817.css.map",
+    "main.bbec8a7e.js.map": "/akshayiosdeveloper/react-upload/static/js/main.bbec8a7e.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/akshayiosdeveloper/react-upload/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d72c817.css",
+    "static/js/main.bbec8a7e.js"
+  ]
+}
